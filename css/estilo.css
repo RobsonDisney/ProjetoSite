@@ -10,3 +10,12 @@ div{
     border:solid red 5px;
 
 }
+
+.classe1{
+    margin:auto;
+    width: 500px;
+    padding: 20px;
+    border:solid yellow 5px;
+    background-color: blue;
+    color:white;
+}
