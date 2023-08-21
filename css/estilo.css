@@ -19,3 +19,12 @@ div{
     background-color: blue;
     color:white;
 }
+
+.classe2{
+    margin:auto;
+    width: 500px;
+    padding: 20px;
+    border:solid blue 5px;
+    background-color: black;
+    color:white;
+}
